@@ -1,7 +1,7 @@
 # Port Scanner 
 Discover your network's security vulnerabilities in minutes! Investigate a potential breach or intrusion with Port Scanner, a free network utility that scans your ports and reports the open and closed ports on your device. Initiating the scan and you can see the live results.
 
-This tool have capability to scan **Well-known ports [0 to 1023] and Registered ports [1024 to 49150]**
+This tool have the capability to scan **Well-known ports [0 to 1023] and Registered ports [1024 to 49150]**
 
 ## Screenshots 
 ![alt text](https://samrat-sarkar.github.io/Port_Scanner/screenshot1.PNG)

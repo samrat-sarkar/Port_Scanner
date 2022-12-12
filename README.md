@@ -1,17 +1,14 @@
 # Port Scanner 
-## How To Use it ?
-#### Using URL
+## Screenshots 
 ![alt text](https://samrat-sarkar.github.io/Port_Scanner/screenshot1.PNG)
-#### Using IP Address
 ![alt text](https://samrat-sarkar.github.io/Port_Scanner/screenshot2.PNG)
-
 ## Commands
-
-#### Scan Ports uings website url 
+#### Scan Ports uings Website URL 
+```http
+   python main.py url https://example.com/
+```
+#### Scan Ports uings IP Address 
 
 ```http
    python main.py url https://example.com/
 ```
-| Parameter | Type     | 
-| :-------- | :------- | 
-|  **url**  | `string` | 

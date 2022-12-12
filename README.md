@@ -7,12 +7,11 @@
 
 ## Commands
 
-#### Get all items
+#### Scan Ports uings website url 
 
 ```http
-  GET /api/items
+   python main.py url https://example.com/
 ```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| Parameter | Type     | 
+| :-------- | :------- | 
+|  **url**  | `string` | 
